@@ -1,0 +1,11 @@
+E:\Unity Projects\Client & Server Practice\SynchronousClient\SynchronousClient\bin\Debug\netcoreapp3.1\SynchronousClient.exe
+E:\Unity Projects\Client & Server Practice\SynchronousClient\SynchronousClient\bin\Debug\netcoreapp3.1\SynchronousClient.deps.json
+E:\Unity Projects\Client & Server Practice\SynchronousClient\SynchronousClient\bin\Debug\netcoreapp3.1\SynchronousClient.runtimeconfig.json
+E:\Unity Projects\Client & Server Practice\SynchronousClient\SynchronousClient\bin\Debug\netcoreapp3.1\SynchronousClient.runtimeconfig.dev.json
+E:\Unity Projects\Client & Server Practice\SynchronousClient\SynchronousClient\bin\Debug\netcoreapp3.1\SynchronousClient.dll
+E:\Unity Projects\Client & Server Practice\SynchronousClient\SynchronousClient\bin\Debug\netcoreapp3.1\SynchronousClient.pdb
+E:\Unity Projects\Client & Server Practice\SynchronousClient\SynchronousClient\obj\Debug\netcoreapp3.1\SynchronousClient.csprojAssemblyReference.cache
+E:\Unity Projects\Client & Server Practice\SynchronousClient\SynchronousClient\obj\Debug\netcoreapp3.1\SynchronousClient.AssemblyInfoInputs.cache
+E:\Unity Projects\Client & Server Practice\SynchronousClient\SynchronousClient\obj\Debug\netcoreapp3.1\SynchronousClient.AssemblyInfo.cs
+E:\Unity Projects\Client & Server Practice\SynchronousClient\SynchronousClient\obj\Debug\netcoreapp3.1\SynchronousClient.dll
+E:\Unity Projects\Client & Server Practice\SynchronousClient\SynchronousClient\obj\Debug\netcoreapp3.1\SynchronousClient.pdb
