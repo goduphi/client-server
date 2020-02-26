@@ -1,7 +1,8 @@
-# synchronous-client-server
+# synchronous & asynchronous-client-server
 
 After learning a little bit about how socket programming works in C, I decided to implement
-whatever knowledge I gained using a more modern language (C#).
+whatever knowledge I gained using a more modern language (C#). There are two implementations
+of the Sockets API: Synchronous & Asynchronous.
 
   ->  Written on Visual Studio 2019.
   ->  All of the code was written down based on documentation from Microsoft.
