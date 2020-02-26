@@ -1,0 +1,11 @@
+E:\Unity Projects\Client & Server Practice\AsynchronousServer\AsynchronousServer\bin\Debug\netcoreapp3.1\AsynchronousServer.exe
+E:\Unity Projects\Client & Server Practice\AsynchronousServer\AsynchronousServer\bin\Debug\netcoreapp3.1\AsynchronousServer.deps.json
+E:\Unity Projects\Client & Server Practice\AsynchronousServer\AsynchronousServer\bin\Debug\netcoreapp3.1\AsynchronousServer.runtimeconfig.json
+E:\Unity Projects\Client & Server Practice\AsynchronousServer\AsynchronousServer\bin\Debug\netcoreapp3.1\AsynchronousServer.runtimeconfig.dev.json
+E:\Unity Projects\Client & Server Practice\AsynchronousServer\AsynchronousServer\bin\Debug\netcoreapp3.1\AsynchronousServer.dll
+E:\Unity Projects\Client & Server Practice\AsynchronousServer\AsynchronousServer\bin\Debug\netcoreapp3.1\AsynchronousServer.pdb
+E:\Unity Projects\Client & Server Practice\AsynchronousServer\AsynchronousServer\obj\Debug\netcoreapp3.1\AsynchronousServer.csprojAssemblyReference.cache
+E:\Unity Projects\Client & Server Practice\AsynchronousServer\AsynchronousServer\obj\Debug\netcoreapp3.1\AsynchronousServer.AssemblyInfoInputs.cache
+E:\Unity Projects\Client & Server Practice\AsynchronousServer\AsynchronousServer\obj\Debug\netcoreapp3.1\AsynchronousServer.AssemblyInfo.cs
+E:\Unity Projects\Client & Server Practice\AsynchronousServer\AsynchronousServer\obj\Debug\netcoreapp3.1\AsynchronousServer.dll
+E:\Unity Projects\Client & Server Practice\AsynchronousServer\AsynchronousServer\obj\Debug\netcoreapp3.1\AsynchronousServer.pdb
